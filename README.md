@@ -1,1 +1,1 @@
-This is a repository for PV080 seminar
+This is a test repository for PV080 seminar
